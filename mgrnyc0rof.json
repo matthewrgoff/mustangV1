@@ -1,0 +1,13 @@
+{
+    "firstName": "Matthew",
+    "lastName": "Goff",
+    "preferredName": "Matt",
+    "email": "matthewrgoff@lewisu.edu",
+    "phoneNumber": "815-735-7550",
+    "city": "Plainfield",
+    "state": "IL",
+    "zip": "60586",
+    "lat": "41.63",
+    "lng": "-88.21", 
+    "favoriteHobby": "Sports"
+}
